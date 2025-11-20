@@ -106,43 +106,43 @@ Ende Funktion
 ### a) Sequenzdiagramm (19 Punkte)
 
 ```plaintext
-               ┌─────────┐          ┌──────────────────┐          ┌──────────────────────┐
-               │  UI     │          │  Medikation      │          │ MedikamentenVerwaltung│
-               └────┬────┘          └────────┬─────────┘          └──────────┬───────────┘
-                    │                      │                               │
-                    │ ausgabeMedikationsplan() │                               │
-                    │─────────────────────>│                               │
-                    │                      │                               │
-                    │                      │ getMedikamente(patient)         │
-                    │                      │───────────────────────────────>│
-                    │                      │                               │
-                    │                      │      [Rückgabe: Medikament[]]  │
-                    │                      │<───────────────────────────────│
-                    │                      │                               │
-                    │                      │ LOOP für jedes Medikament       │
-                    │                      │                               │
-                    │                      │ getEinnahme(medikament, patient)│
-                    │                      │───────────────────────────────>│
-                    │                      │                               │
-                    │                      │ [Prüfung: String leer?]         │
-                    │                      │<-------------------------------│
-                    │                      │                               │
-                    │      [String = ""]   │                               │
-                    │─────────────────────>│ getStandardMedikation(medikament)│
-                    │                      │───────────────────────────────>│
-                    │                      │                               │
-                    │                      │ [Rückgabe: Standard-Einnahme]   │
-                    │                      │<───────────────────────────────│
-                    │                      │                               │
-                    │                      │ [Ermittelte Einnahme]           │
-                    │                      │<────────────────────────────────│
-                    │                      │                               │
-                    │                      │ ausgabeMedikation(medikation)   │
-                    │                      │───────────────────────────────>│
-                    │                      │                               │
-                    │                      │ END LOOP                        │
-                    │                      │                               │
-                    │                      │                               │
+               ┌─────────┐             ┌──────────────────┐             ┌───────────────────────┐
+               │  UI     │             │  Medikation      │             │ MedikamentenVerwaltung│
+               └────┬────┘             └────────┬─────────┘             └──────────┬────────────┘
+                    │                           │                                  │
+                    │ ausgabeMedikationsplan()  │                                  │
+                    │──────────────────────────>│                                  │
+                    │                           │                                  │
+                    │                           │ getMedikamente(patient)          │
+                    │                           │────────────────────────────────> │
+                    │                           │                                  │
+                    │                           │      [Rückgabe: Medikament[]]    │
+                    │                           │<──────────────────────────────── │
+                    │                           │                                  │
+                    │                           │ LOOP für jedes Medikament        │
+                    │                           │                                  │
+                    │                           │ getEinnahme(medikament, patient) │
+                    │                           │────────────────────────────────> │
+                    │                           │                                  │
+                    │                           │ [Prüfung: String leer?]          │
+                    │                           │<-------------------------------- │
+                    │                           │                                  │
+                    │      [String = ""]        │                                  │
+                    │─────────────────────>     │ getStandardMedikation(medikament)│
+                    │                           │────────────────────────────────> │
+                    │                           │                                  │
+                    │                           │ [Rückgabe: Standard-Einnahme]    │
+                    │                           │<──────────────────────────────── │
+                    │                           │                                  │
+                    │                           │ [Ermittelte Einnahme]            │
+                    │                           │<──────────────────────────────── │
+                    │                           │                                  │
+                    │                           │ ausgabeMedikation(medikation)    │
+                    │                           │─────────────────────────────────>│
+                    │                           │                                  │
+                    │                           │ END LOOP                         │
+                    │                           │                                  │
+                    │                           │                                  │
 ```
 
 **Notation:** Das Sequenzdiagramm zeigt:
