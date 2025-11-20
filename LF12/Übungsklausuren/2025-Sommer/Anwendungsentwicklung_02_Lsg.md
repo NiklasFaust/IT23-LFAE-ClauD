@@ -103,7 +103,7 @@ Ende Funktion
 
 ## Aufgabe 2 (25 Punkte): Medikationsplan und Testing
 
-### a) Sequenzdiagramm (19 Punkte)
+### a) Sequenzdiagramm (19 Punkte) *falsch*
 
 ```plaintext
                        ┌─────────┐             ┌──────────────────┐             ┌───────────────────────┐
