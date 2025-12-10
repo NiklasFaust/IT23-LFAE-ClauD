@@ -2,14 +2,9 @@
 
 ---
 %% Begin Waypoint %%
-- [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
 - **[[00 - Klausur OS-02]]**
-- [[00 - Musterlösungen Klausur IT23 1]]
 - **[[00 - Selbsteinschätzungen]]**
-- [[00 - Übersicht.excalidraw]]
-- [[01 - Obsidian.excalidraw]]
-- [[02 - Einrichtung GitHub und Basics Git.excalidraw]]
 - **[[Anhänge]]**
 	- [[00 - Übersicht Blockchain (Material).png]]
 	- [[Blockchain_WhitePaper_Grundlagen-Anwendungen-Potentiale.pdf]]
@@ -25,14 +20,39 @@
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
 	- [[Unbenannt]]
-- [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
-- [[Dockerfile]]
 - **[[Excel-Übung]]**
-- [[index.html]]
-- [[Klausurthemen IT22]]
-- [[Klausurthemen IT23]]
 - **[[LF10]]**
 - **[[LF12]]**
+	- **[[03 - Entwicklung eines kleinen Software-Projekts.excalidraw 1.file]]**
+	- **Anhänge**
+		- [[ChatGPT Image 9. Apr. 2025, 22_35_31.png]]
+		- [[Pasted Image 20230827132026_627.png]]
+		- [[Pasted Image 20230927155300_053.png]]
+		- [[Pasted Image 20230927155537_058.png]]
+		- [[Pasted Image 20230927161857_051.png]]
+		- [[Pasted Image 20240125081019_280.png]]
+		- [[Pasted Image 20240221170545_149.png]]
+		- [[Pasted Image 20240221171817_049.png]]
+		- [[Pasted Image 20240221171848_094.png]]
+		- [[Pasted Image 20240221172202_165.png]]
+		- [[Pasted Image 20240229084823_287.jpg]]
+		- [[Pasted Image 20240229084841_159.jpg]]
+		- [[Pasted Image 20240229085133_907.png]]
+		- [[Pasted Image 20240229085203_928.png]]
+		- [[Pasted Image 20240229085221_925.png]]
+		- [[Pasted Image 20240229085236_927.png]]
+		- [[Pasted Image 20240229085251_928.png]]
+		- [[Pasted Image 20240229090336_107.png]]
+		- [[Pasted Image 20240430105347_123.png]]
+		- [[Pasted Image 20240430105347_175.png]]
+		- [[Pasted Image 20240430112408_784.png]]
+		- [[Pasted image 20240925105909.png]]
+		- [[Pasted Image 20250402130857_089.png]]
+		- [[Pasted Image 20250402210801_261.png]]
+		- [[Pasted image 20250409223406.png]]
+	- **[[Blockchain]]**
+	- **[[Container]]**
+	- **[[Übungsklausuren]]**
 	- [[00 - Übersicht über Themen LF12.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF12.excalidraw]]
 	- [[00 - Übersicht über Themen LF12]]
@@ -46,10 +66,7 @@
 	- [[02a - Risikoanalyse]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw.png]]
-	- **[[03 - Entwicklung eines kleinen Software-Projekts.excalidraw 1.file]]**
-	- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw.excalidraw]]
 	- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw]]
-	- [[03 - Entwicklung eines kleinen Software-Projekts]]
 	- [[04 - BarCamp.excalidraw]]
 	- [[04a - Progressive Web Apps - When and Why.excalidraw]]
 	- [[05 - Crashkurs Excel.excalidraw]]
@@ -95,37 +112,19 @@
 	- [[15b - Musterlösungen Dateiaustauschformate]]
 	- [[16 - Verschlüsselung]]
 	- [[99 - Mögliche Projekte]]
-	- **Anhänge**
-		- [[ChatGPT Image 9. Apr. 2025, 22_35_31.png]]
-		- [[Pasted Image 20230827132026_627.png]]
-		- [[Pasted Image 20230927155300_053.png]]
-		- [[Pasted Image 20230927155537_058.png]]
-		- [[Pasted Image 20230927161857_051.png]]
-		- [[Pasted Image 20240125081019_280.png]]
-		- [[Pasted Image 20240221170545_149.png]]
-		- [[Pasted Image 20240221171817_049.png]]
-		- [[Pasted Image 20240221171848_094.png]]
-		- [[Pasted Image 20240221172202_165.png]]
-		- [[Pasted Image 20240229084823_287.jpg]]
-		- [[Pasted Image 20240229084841_159.jpg]]
-		- [[Pasted Image 20240229085133_907.png]]
-		- [[Pasted Image 20240229085203_928.png]]
-		- [[Pasted Image 20240229085221_925.png]]
-		- [[Pasted Image 20240229085236_927.png]]
-		- [[Pasted Image 20240229085251_928.png]]
-		- [[Pasted Image 20240229090336_107.png]]
-		- [[Pasted Image 20240430105347_123.png]]
-		- [[Pasted Image 20240430105347_175.png]]
-		- [[Pasted Image 20240430112408_784.png]]
-		- [[Pasted image 20240925105909.png]]
-		- [[Pasted Image 20250402130857_089.png]]
-		- [[Pasted Image 20250402210801_261.png]]
-		- [[Pasted image 20250409223406.png]]
-	- **[[Blockchain]]**
 	- [[Bsp_Dokumentation.pdf]]
-	- **[[Container]]**
 	- [[Praktische Software-Entwicklung unter Verwendung von LLM (am Beispiel von Anthropic Claude)]]
-	- **[[Übungsklausuren]]**
+- [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
+- [[00 - Musterlösungen Klausur IT23 1]]
+- [[00 - Übersicht.excalidraw]]
+- [[01 - Obsidian.excalidraw]]
+- [[02 - Einrichtung GitHub und Basics Git.excalidraw]]
+- [[2025-12 Tipps zu Programmierproblemen]]
+- [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
+- [[Dockerfile]]
+- [[index.html]]
+- [[Klausurthemen IT22]]
+- [[Klausurthemen IT23]]
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
 - [[Prüfungsthemen AP2]]
