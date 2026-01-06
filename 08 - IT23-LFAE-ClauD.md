@@ -52,6 +52,7 @@
 		- [[Pasted image 20250409223406.png]]
 	- **[[Blockchain]]**
 	- **[[Container]]**
+	- **[[Deepdive LLM]]**
 	- **[[Übungsklausuren]]**
 	- [[00 - Übersicht über Themen LF12.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF12.excalidraw]]
