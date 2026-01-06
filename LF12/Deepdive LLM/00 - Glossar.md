@@ -28,6 +28,10 @@ Die Umwandlung eines diskreten Tokens (Integer) in eine kontinuierliche Repräse
     
 - **Zweck:** Semantische Bedeutung wird in geometrische Nähe übersetzt. Ähnliche Wörter haben im Vektorraum eine hohe Kosinus-Ähnlichkeit (zeigen in eine ähnliche Richtung).
     
+### **Prompt**
+
+Der Eingabetext oder die Aufgabenbeschreibung, die an ein LLM übergeben wird.  
+Ein Prompt bestimmt den Kontext und die gewünschte Antwort des Modells – zum Beispiel eine Frage, einen Befehl oder einen Textauszug.
 
 ### **Context Window (Kontextfenster)**
 
