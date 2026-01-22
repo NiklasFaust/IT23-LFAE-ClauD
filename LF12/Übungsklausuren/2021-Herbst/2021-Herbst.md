@@ -2,7 +2,7 @@
 
 ---
 %% Begin Waypoint %%
-- **[[Anhänge]]**
+- **[[08 - IT23-LFAE-ClauD/LF12/Übungsklausuren/2021-Herbst/Anhänge/Anhänge]]**
 - [[GA1_Anwendungsentw_Aufgaben.pdf]]
 - [[GA1_Anwendungsentw_Belegsatz.pdf]]
 - [[GA1_Anwendungsentwicklung_Lsg.pdf]]

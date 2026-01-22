@@ -87,6 +87,8 @@
 	- [[10 - MergeSort Übungsimplementierung]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw]]
+	- [[11a - Text für Vorbereitung Kundengespräch]]
+	- [[11a - Vorbereitung Kundengespräch.excalidraw]]
 	- [[12 - Design Pattern.excalidraw]]
 	- [[12a - Info Design pattern]]
 	- [[12a - Übungsaufgaben Design Pattern]]
