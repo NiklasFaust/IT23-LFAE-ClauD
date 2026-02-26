@@ -3,7 +3,7 @@
 ---
 %% Begin Waypoint %%
 - **Anhänge**
-	- [[image.png]]
+	- [[08 - IT23-LFAE-ClauD/LF12/Deepdive LLM/Anhänge/image.png]]
 	- [[Pasted Image 20260106125548_725.png]]
 	- [[Pasted Image 20260106164130_980.png]]
 	- [[Pasted Image 20260106164536_671.png]]

@@ -85,7 +85,6 @@
 	- [[09 - Algorithmen entwickeln Musterlösungen (Python)]]
 	- [[09 - Algorithmen entwickeln]]
 	- [[10 - MergeSort Übungsimplementierung]]
-	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw.excalidraw]]
 	- [[11 - Entwicklung eines gemeinsamen Software-Projekts.excalidraw]]
 	- [[11a - Text für Vorbereitung Kundengespräch]]
 	- [[11a - Vorbereitung Kundengespräch.excalidraw]]
@@ -117,6 +116,7 @@
 	- [[99 - Mögliche Projekte]]
 	- [[Bsp_Dokumentation.pdf]]
 	- [[Praktische Software-Entwicklung unter Verwendung von LLM (am Beispiel von Anthropic Claude)]]
+- **[[Übungsaufgaben IHK-ähnlich]]**
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - [[00 - Musterlösungen Klausur IT23 1]]
 - [[00 - Übersicht.excalidraw]]
@@ -131,6 +131,7 @@
 - [[Notenliste (OS-1).xlsx]]
 - [[Notenliste (OS-2).xlsx]]
 - [[Prüfungsthemen AP2]]
+- [[Prüfungswiederholungswünsche]]
 - [[README]]
 - [[ShareMyPlugin]]
 - [[Themenspeicher]]
