@@ -26,4 +26,73 @@ Ein erfahrener Kollege rät Ihnen, diese Redundanzen und langen Auswahlstrukture
 
 ### Musterlösung und Bewertungshinweise
 
-🔐β 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 🔐
+**a) Erläuterung Polymorphie (4 Punkte)** _Je 2 Punkte für die Definition und den Vorteil. Sinngemäße Antworten sind gültig._
+
+- **Definition:** Polymorphie (Vielgestaltigkeit) bedeutet, dass eine Methode in verschiedenen Klassen einer Vererbungshierarchie die gleiche Signatur besitzt, aber unterschiedlich implementiert ist. Erst zur Laufzeit wird entschieden (dynamisches Binden), welche spezifische Methode des instanziierten Objekts aufgerufen wird.
+- **Vorteil Wartbarkeit:** Wenn in Zukunft eine neue Fahrzeugkategorie (z. B. "LKW") hinzugefügt wird, muss der bestehende Code (wie alte Switch-Case-Blöcke) nicht verändert werden. Es wird einfach eine neue Unterklasse erstellt. Dies reduziert das Risiko von Fehlern in bestehendem Code (Open-Closed-Principle).
+
+**b) UML-Klassendiagramm (10 Punkte)** _Punkteverteilung: 2 Punkte für abstrakte Basisklasse inkl. Kennzeichnung, 3 Punkte für korrekt erkannte Unterklassen mit passenden Namen, 2 Punkte für Vererbungspfeile, 2 Punkte für Methodensignaturen in Basisklasse und Unterklassen, 1 Punkt für Factory-Methode._
+
+``` mermaid
+classDiagram
+    class Fahrzeug {
+        <<abstract>>
+        +createFahrzeug(typ: String)$ Fahrzeug
+        +berechneMiete(tage: Integer, tagesPreis: Double)* Double
+    }
+
+    class Verbrenner {
+        +berechneMiete(tage: Integer, tagesPreis: Double) Double
+    }
+
+    class ElektroAuto {
+        +berechneMiete(tage: Integer, tagesPreis: Double) Double
+    }
+
+    class Transporter {
+        +berechneMiete(tage: Integer, tagesPreis: Double) Double
+    }
+
+    Fahrzeug <|-- Verbrenner
+    Fahrzeug <|-- ElektroAuto
+    Fahrzeug <|-- Transporter
+```
+
+_(Hinweis für den Korrektor: Klassennamen können variieren (z.B. "Benziner", "Elektrofahrzeug" etc.), solange sie semantisch passen. Die Factory-Methode ist eine sinnvolle Lösung, muss aber nicht von allen Schülern erkannt werden - hier Punkte nach Qualität der Gesamtlösung vergeben.)_
+
+---
+
+**c) Pseudocode Fabrikmethode (6 Punkte)** _1 Punkt Methodenkopf, 1 Punkt Selektor/Switch, 3 Punkte für korrekte Objekt-Rückgaben, 1 Punkt für Default-Return (null)._
+
+``` java
+public static Fahrzeug createFahrzeug(String typ) {
+    switch(typ) {
+        case "VERBRENNER":
+            return new Verbrenner();
+        case "E-AUTO":
+            return new ElektroAuto();
+        case "TRANSPORTER":
+            return new Transporter();
+        default:
+            return null;
+    }
+}
+```
+
+_(Hinweis: Eine If-Else-Kette ist ebenfalls mit voller Punktzahl zu bewerten)._
+
+**d) Pseudocode `berechneMiete` für E-AUTO (3 Punkte)** _1 Punkt Methodenkopf, 1 Punkt korrekte mathematische Logik, 1 Punkt Return._
+
+``` java
+@Override
+public Double berechneMiete(Integer tage, Double tagesPreis) {
+    Double basisMiete = tage * tagesPreis;
+    return basisMiete * 0.90; // 10 Prozent Rabatt abziehen
+}
+```
+
+**e) Unterschied Abstrakte Klasse vs. Interface (2 Punkte)** _2 Punkte für einen korrekten Unterschied. Zum Beispiel:_
+
+- Eine abstrakte Klasse kann bereits ausprogrammierte Methoden und Instanzvariablen (Attribute) enthalten. Ein Interface darf (klassischerweise) nur Konstanten und Methodensignaturen (ohne Rumpf) vorgeben.
+- Oder: In vielen Programmiersprachen (wie Java/C#) kann eine Klasse nur _eine_ abstrakte Klasse erben (keine Mehrfachvererbung), aber _beliebig viele_ Interfaces implementieren.
+- 
