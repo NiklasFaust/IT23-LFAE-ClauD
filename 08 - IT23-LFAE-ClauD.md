@@ -20,6 +20,7 @@
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
 	- [[Unbenannt]]
+- **[[Biboxen]]**
 - **[[Excel-Übung]]**
 - **[[LF10]]**
 - **[[LF12]]**
