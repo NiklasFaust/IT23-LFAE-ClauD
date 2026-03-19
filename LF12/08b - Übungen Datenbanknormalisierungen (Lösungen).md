@@ -4,9 +4,24 @@
 
 - **Erste Normalform (1NF):** Eine Tabelle ist in der Ersten Normalform, wenn alle Spalten atomar sind, das heißt, jede Zelle enthält nur einen Wert und alle Einträge einer Spalte den gleichen Datentyp haben.
 
+
+| Vorname | Nachname | PLZ   | Ort       |
+| ------- | -------- | ----- | --------- |
+| Peter   | Lustig   | 24768 | Rendsburg |
+
+
 - **Zweite Normalform (2NF):** Eine Tabelle ist in der Zweiten Normalform, wenn sie bereits in der 1NF ist und alle Nicht-Schlüsselattribute vollständig funktional abhängig vom Primärschlüssel sind. Das bedeutet, dass keine Teilschlüsselabhängigkeiten vorhanden sind.
 
+
+| Vorname | Nachname | PLZ   | Ort       | Automarke | FarbeAuto |
+| ------- | -------- | ----- | --------- | --------- | --------- |
+| Peter   | Lustig   | 24768 | Rendsburg | Toyota    | silber    |
+| Ursula  | Übel     | 24112 | Kiel      | VW        | gelb      |
+
+
 - **Dritte Normalform (3NF):** Eine Tabelle ist in der Dritten Normalform, wenn sie bereits in der 2NF ist und keine Nicht-Schlüsselattribute transitiv abhängig vom Primärschlüssel sind. Das bedeutet, dass keine indirekten Abhängigkeiten existieren.
+
+
 
 - **Vorteile der Normalisierung:**
   1. Reduzierung von Datenredundanz.

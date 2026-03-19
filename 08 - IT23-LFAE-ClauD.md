@@ -27,6 +27,7 @@
 	- **[[03 - Entwicklung eines kleinen Software-Projekts.excalidraw 1.file]]**
 	- **Anhänge**
 		- [[ChatGPT Image 9. Apr. 2025, 22_35_31.png]]
+		- [[image.png]]
 		- [[Pasted Image 20230827132026_627.png]]
 		- [[Pasted Image 20230927155300_053.png]]
 		- [[Pasted Image 20230927155537_058.png]]
@@ -75,6 +76,7 @@
 	- [[06 - Wiederholung SQL JOIN.excalidraw]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD)]]
+	- [[07a - Vom ER-Diagramm zum relationalen Datenbankmodell]]
 	- [[08 - Übung SQL und JOIN]]
 	- [[08 - Weinhandel Herbst2023 DB.db]]
 	- [[08 - Weinhandel Herbst2023.sql]]

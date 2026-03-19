@@ -8,13 +8,13 @@ Um eine objektive Entscheidung zu treffen, hat das Projektteam eine Nutzwertanal
 
 **a)** Vervollständigen Sie die folgende Tabelle der Nutzwertanalyse, indem Sie die gewichteten Punkte (Teilnutzen) für beide Anbieter sowie die jeweilige Gesamtsumme berechnen. _(8 Punkte)_
 
-|Kriterium|Gewichtung|Anbieter A (Punkte)|Anbieter A (gewichtet)|Anbieter B (Punkte)|Anbieter B (gewichtet)|
-|:--|:--|:--|:--|:--|:--|
-|Lizenzkosten|30 %|4||2||
-|Funktionsumfang|30 %|3||5||
-|IT-Sicherheit|25 %|5||4||
-|Support & SLAs|15 %|3||4||
-|**Summen**|**100 %**|||||
+| Kriterium       | Gewichtung | Anbieter A (Punkte) | Anbieter A (gewichtet) | Anbieter B (Punkte) | Anbieter B (gewichtet) |
+| :-------------- | :--------- | :------------------ | :--------------------- | :------------------ | :--------------------- |
+| Lizenzkosten    | 30 %       | 4                   |                        | 2                   |                        |
+| Funktionsumfang | 30 %       | 3                   |                        | 5                   |                        |
+| IT-Sicherheit   | 25 %       | 5                   |                        | 4                   |                        |
+| Support & SLAs  | 15 %       | 3                   |                        | 4                   |                        |
+| **Summen**      | **100 %**  |                     |                        |                     |                        |
 
 **b)** Nennen Sie auf Basis Ihrer Berechnungen aus Aufgabe a) den Anbieter, der den Zuschlag erhalten sollte, und begründen Sie dies kurz. _(2 Punkte)_
 
